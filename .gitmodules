@@ -1,0 +1,6 @@
+[submodule "coop"]
+	path = coop
+	url = https://github.com/rakyll/coop.git
+[submodule "dockerboard"]
+	path = dockerboard
+	url = https://github.com/dockerboard/dockerboard.git
